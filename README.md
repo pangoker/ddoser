@@ -1,4 +1,4 @@
-# very powerfull ddos tool for free
+# very powerfull private ddos tool for free
 # can down websites by few request
 # bypass all anti ddos website
 # use vps browser (more power)
