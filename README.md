@@ -1,5 +1,5 @@
 # very powerfull private ddos tool for free
-# can down websites by few request
+# can down your target by few request
 # bypass all anti ddos website
 # use vps browser (more power)
 # For the bypass, first open the target in the browser until fully loaded
