@@ -1,4 +1,4 @@
-# very powerfull ddos tool for fre
+# very powerfull ddos tool for free
 # bypass all anti ddos website
 # open this ddos website https://b0sw.tiiny.site/ in vps browser
 # put your target and start attack
