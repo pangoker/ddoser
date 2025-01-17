@@ -6,4 +6,4 @@
 # open this ddos website https://b0sw.tiiny.site/ in browser
 # put your target and start attack
 # Keep the attack page open in background and dont change browser tab becuase attack stops
-
+# strong and really request with really browser down your target easy ......enjoy
