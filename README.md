@@ -1,4 +1,4 @@
-# very powerfull private ddos tool for free
+# The world's most powerful DOS program through the browser, written by a programming engineer
 # can down your target by few request
 # bypass all anti ddos website
 # use vps browser (more power)
