@@ -1,6 +1,5 @@
 # The world's most powerful DOS program through the browser, written by a programming engineer
 # can down your target by few request
-# bypass all anti ddos website
 # use vps browser (more power)
 # For the bypass, first open the target in the browser until fully loaded
 # If the website uses captcha, first open the website in the browser and go through the captcha, then open https://b0sw.tiiny.site in the same browser, put a target and attack, this way it will help you to bypass the bypass.👍
