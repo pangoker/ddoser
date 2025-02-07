@@ -1,4 +1,4 @@
-# (free) private  ddos freez tool can down server in 10 second(https://b0sw.tiiny.site/)updated
+# (free) private  ddos freez tool can down server in 10 second(https://b0sw.tiiny.site/)  updated
 # Keep the attack page open in background and dont change browser tab becuase attack stops
 # The world's most powerful server freezer program through the browser, written by a programming engineer can freez & down your target very fast 
  # use vps browser (more power)
