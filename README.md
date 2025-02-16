@@ -1,1 +1,5 @@
-Every server I upload this script to, they delete it because it is so powerful and dangerous. I always update it and upload it to a new server.
+# new update with modern method so powerfull
+# browser bassd script so powerfull
+ ddoser tool: https://stress-test20.blogspot.com
+# Keep the attack page open in background and dont change browser tab becuase attack stops
+
