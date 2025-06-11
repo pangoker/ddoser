@@ -5,4 +5,7 @@
  A few ads may appear first, then you can proceed to use it
 
  ddoser tool:https://stresstest3.netlify.app/
+
+Use a VPS browser—the stronger your VPS, the greater the attack power will be
+ 
 # Keep the attack page open in background and dont change browser tab becuase attack stops.
